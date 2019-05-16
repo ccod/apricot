@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible 
+
+# TEAM
+
+    Christopher Codrington -- Web Developer 
+
+# TECHNOLOGY 
+
+    HTML5, CSS3
+    Bootstrap, JQuery

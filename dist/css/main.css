@@ -1,0 +1,66 @@
+
+.main-background {
+    background-color: #98a89c;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.main-container {
+    min-height: 12em;
+    background-color: #ffffff;
+    box-shadow: -2px 4px 8px 0px #444444;
+}
+
+.color-text {
+    color: #d55118;
+}
+
+.menu__spacing {
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+.menu__list div {
+    line-height: 2em;
+
+}
+
+.apricot-map {
+    height: 400px;
+}
+
+.apricot-hero__img {
+    height: 300px;
+}
+
+.apricot-hero {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.brand-icon {
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+}
+
+.brand-icon:hover {
+    background-color: #e17444;
+}
+
+@media screen and (max-width: 576px) {
+    .main-background {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .apricot-hero {
+        padding-top: 0em;
+        padding-bottom: 1em;
+    }
+
+    .apricot-map {
+        margin-top: 2em;
+        height: 200px
+    }
+}
